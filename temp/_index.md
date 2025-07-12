@@ -4,7 +4,7 @@ title: temp
 ---
 
 ```markdown
-<sup>1</sup> TEXT 
+<sup>0</sup> TEXT 
 <note title="Дополнительно" collapsed="true">
 
 <note type="tip" title="Переводы" collapsed="true">
@@ -59,6 +59,8 @@ text
 
 <note type="tip" title="Синодальный" collapsed="true">
 
+
+
 text
 
 </note>
@@ -97,9 +99,15 @@ text
 
 text
 
-[link](./temp)
+[link](./_index)
 
 </note>
+
+</note>
+
+<note type="info" title="Карты" collapsed="true">
+
+![](./temp.jpeg){width=421px height=600px}
 
 </note>
 

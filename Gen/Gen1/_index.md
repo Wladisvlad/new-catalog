@@ -3,19 +3,15 @@ order: 1
 title: ГЛАВА 1
 ---
 
-<sup>1</sup>В начале сотвори **Бог** небо и землю.
+<sup>1</sup>В начале сотвори <mark>Бог</mark> небо и землю.
 
-<note title="Переводы" collapsed="true">
+<note title="Дополнительно" collapsed="true">
 
-<note type="tip" title="Синодальный" collapsed="true">
-
-В начале сотворил Бог небо и землю.
+<note type="tip" title="Переводы" collapsed="true">
 
 <note type="tip" title="Синодальный" collapsed="true">
 
 В начале сотворил Бог небо и землю.
-
-</note>
 
 </note>
 
@@ -33,11 +29,37 @@ In principio creavit Deus cælum et terram.
 
 </note>
 
-\[2\] Земля же бе невидима и неустроена, и тма верху бездны, и Дух Божий ношашеся верху воды.
+<note type="info" title="Толкования" collapsed="true">
 
-\[3\] И рече Бог: да будет свет. И бысть свет.
+<note type="quote" title="Автор" collapsed="true">
 
-\[4\] И виде Бог свет, яко добро, и разлучи Бог между светом и между тмою.
+text [link](./temp)
+
+</note>
+
+<note type="quote" title="Автор" collapsed="true">
+
+text [link](./temp)
+
+</note>
+
+<note type="quote" title="Автор" collapsed="true">
+
+text
+
+[link](./temp)
+
+</note>
+
+</note>
+
+</note>
+
+<sup> 2 </sup> Земля же бе невидима и неустроена, и тма верху бездны, и Дух Божий ношашеся верху воды.
+
+<sup>3</sup> И рече Бог: да будет свет. И бысть свет.
+
+<sup>4</sup> И виде Бог свет, яко добро, и разлучи Бог между светом и между тмою.
 
 5 И нарече Бог свет день, а тму нарече нощь. И бысть вечер, и бысть утро, день един.
 
