@@ -104,5 +104,3 @@ text
 </note>
 
 </note>
-
-
