@@ -1,4 +1,6 @@
 title: Библия
 syntax: Xml
 supportedLanguages: []
-properties: []
+properties:
+  - name: "111"
+    type: Numeric
