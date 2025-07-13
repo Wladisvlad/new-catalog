@@ -5,30 +5,6 @@ title: ГЛАВА 1
 
 <sup>1</sup>В начале сотвори <mark>Бог</mark> небо и землю.
 
-<note title="Дополнительно" collapsed="true">
-
-<note type="tip" title="Переводы" collapsed="true">
-
-<note type="tip" title="Синодальный" collapsed="true">
-
-В начале сотворил Бог небо и землю.
-
-</note>
-
-<note type="tip" title="LXX " collapsed="true">
-
-Ἐν ἀρχῇ ἐποίησεν ὁ θεὸς τὸν οὐρανὸν καὶ τὴν γῆν.
-
-</note>
-
-<note type="tip" title="Vulg" collapsed="true">
-
-In principio creavit Deus cælum et terram.
-
-</note>
-
-</note>
-
 <note type="info" title="Толкования" collapsed="true">
 
 <note type="quote" title="Антоний Великий, прп. (†356)" collapsed="true">
@@ -62,7 +38,9 @@ In principio creavit Deus cælum et terram.
 <note type="quote" title="Ефрем Сирин, прп. (†373)" collapsed="true">
 
 
+
 </note>
+
 </note>
 
 <sup> 2 </sup> Земля же бе невидима и неустроена, и тма верху бездны, и Дух Божий ношашеся верху воды.
@@ -124,4 +102,3 @@ In principio creavit Deus cælum et terram.
 30 и всем зверем земным, и всем птицам небесным, и всякому гаду пресмыкающемуся по земли, иже имать в себе душу живота, и всяку траву зелену в снедь. И бысть тако.
 
 31 И виде Бог вся, елика сотвори: и се добра зело. И бысть вечер, и бысть утро, день шестый.
-
